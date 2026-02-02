@@ -22,7 +22,7 @@ It helps users write professional, personalized, and time-efficient emails — p
 |-------|--------------------|
 | **Backend** | Spring Boot, Spring AI, Maven |
 | **Frontend** | React.js, Vite, JavaScript, HTML, CSS |
-| **Extension** | Chrome Extension (optional integration) |
+| **Extension** | Chrome Extension |
 | **Language** | Java 21, Node.js 20+ |
 | **Version Control** | Git & GitHub |
 
